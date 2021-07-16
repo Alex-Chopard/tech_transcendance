@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "tech_transcendance:items/sheep_sword"
+  }
+}

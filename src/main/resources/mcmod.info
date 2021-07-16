@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tech_transcendance",
+  "name": "Tech Transcendance",
+  "description": "Tech mod to go to the moon!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AlbaSheep"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
