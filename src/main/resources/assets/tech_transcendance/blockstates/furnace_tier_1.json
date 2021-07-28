@@ -1,0 +1,10 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "tech_transcendance:furnace_tier_1",
+    "uvlock": true
+  },
+  "variants": {
+    "normal": [{}]
+  }
+}
